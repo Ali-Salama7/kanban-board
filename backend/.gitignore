@@ -2,3 +2,7 @@
 .env
 /dist
 /generated
+/src/generated/prisma
+/.agents
+/.claude
+/.windsurf
